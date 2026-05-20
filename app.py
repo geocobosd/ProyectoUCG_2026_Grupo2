@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import libreria_funciones as lf
 
+st.sidebar.title("configuración")
 st.title("Proyecto final UCG")
 
 uploaded_files = st.file_uploader(
