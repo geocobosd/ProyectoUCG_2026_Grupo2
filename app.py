@@ -3,7 +3,7 @@ import pandas as pd
 import libreria_funciones as lf
 
 st.sidebar.title("Configuración")
-st.title("Proyecto final UCG")
+st.title("Proyecto final Rojas-Cobos-Lara")
 
 uploaded_files = st.file_uploader(
     "Upload data", accept_multiple_files=True, type="csv"
