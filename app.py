@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import libreria_funciones as lf
-#import plotly.express as px
+import plotly.express as px
 
 
 
