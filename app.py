@@ -1,7 +1,11 @@
 import streamlit as st
 import pandas as pd
 import libreria_funciones as lf
+import plotly.express as px
 
+#TITULO DE LA APLICACION
+
+st.set_page_config(page_title="Análisis de Clientes Bancarios", layout="wide")
 st.sidebar.title("Configuración")
 st.title("Proyecto final Rojas-Cobos-Lara")
 
