@@ -1,9 +1,7 @@
 import streamlit as st
 import pandas as pd
 import libreria_funciones as lf
-import matplotlib.pyplot as plt
-#import plotly.express as px
-import seaborn as sns 
+import plotly.express as px  # ← Uncomment this line
 
 #Import
 
