@@ -3,7 +3,7 @@ import pandas as pd
 import libreria_funciones as lf
 import matplotlib.pyplot as plt
 #import plotly.express as px
-import seaborn as sns
+import seaborn as sns 
 
 
 #TITULO DE LA APLICACION
